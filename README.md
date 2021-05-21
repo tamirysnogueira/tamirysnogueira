@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="30px" align="center">
+# Boas vindas ao meu perfil! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="30px" align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-tamirysnogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamirys-nogueira-346958205/)](https://www.linkedin.com/in/tamirys-nogueira-346958205/)
 [![Gmail Badge](https://img.shields.io/badge/-tamirysnogueira12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirysnogueira12@gmail.com)](mailto:tamirysnogueira12@gmail.com)
@@ -6,22 +6,17 @@
 <br>
 
 
-<img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" align="right" width="300px">
 
 Olá! Me chamo Tamirys, sou brasileira, tenho 17 anos e estou focada em me tornar uma Desenvolvedora
 Full Stack junto com as melhores ferramentas da web.
-
-Desde pequena sempre fui fascinada com a tecnologia e muito curiosa sobre como tudo
-funcionava, quando conheci o universo da programação tive a certeza que era isso que queria.
 
 Sou estudante do segundo grau integrado com Técnico em Informática para Internet no
 Instituto Federal do Mato Grosso do Sul.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirysnogueira&show_icons=true&theme=omni&hide=TeX&layout=compact)
-
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirysnogueira&show_icons=true&theme=omni&hide=TeX&layout=compact) 
 
 ##  Tecnologias <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">
 
