@@ -7,6 +7,7 @@
 
 
 <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" align="right" width="400px">
+<br>
 
 Olá! Me chamo Tamirys, sou brasileira, tenho 17 anos e estou focada em me tornar uma Desenvolvedora
 Full Stack junto com as melhores ferramentas da web.
