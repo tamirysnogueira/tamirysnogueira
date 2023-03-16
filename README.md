@@ -17,7 +17,7 @@ Instituto Federal do Mato Grosso do Sul.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirysnogueira&show_icons=true&theme=omni&hide=TeX&layout=compact) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirysnogueira&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
 ##  Tecnologias <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="45px" height="45px" align="center">
 
