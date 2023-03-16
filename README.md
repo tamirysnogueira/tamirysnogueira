@@ -9,11 +9,8 @@
 <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" align="right" width="400px">
 <br>
 
-Olá! Me chamo Tamirys, sou brasileira, tenho 17 anos e estou focada em me tornar uma Desenvolvedora
-Full Stack junto com as melhores ferramentas da web.
-
-Sou estudante do segundo grau integrado com Técnico em Informática para Internet no
-Instituto Federal do Mato Grosso do Sul.
+Olá! Me chamo Tamirys, sou brasileira, tenho 19 anos, sou formada em técnico em informática para internet e estou focada em me tornar uma Desenvolvedora
+Front-End junto com as melhores ferramentas da web.
 
 <br>
 
